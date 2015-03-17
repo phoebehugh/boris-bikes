@@ -1,4 +1,4 @@
 class Bike
-  def broken
+  def broken?
   end
 end
