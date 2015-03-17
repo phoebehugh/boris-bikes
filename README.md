@@ -1,1 +1,1 @@
-Exploring domain mapping in the Boris Bikes exercise with Maker's Academy.
+Exploring domain mapping with @phoebehugh and @saramoohead with the Boris Bikes exercise from Maker's Academy.
